@@ -1,4 +1,4 @@
-# +Tax 
+# +Tax 💵
 
 ## Description
 A simple, no BS tax calculator. Created and published back in July 2021, now here on GitHub.
