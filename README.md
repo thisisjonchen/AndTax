@@ -1,5 +1,6 @@
 # AndTax: Sales Tax and Tip
-
+![cover](./Promo/7.png)
+![more](./Promo/8.png)
 ## Description
 A simple, no BS sales tax and tip calculator. Created and published back in July 2021, now here on GitHub.
 
